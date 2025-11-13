@@ -1,0 +1,5 @@
+{
+  "name": "Student Record Management System",
+  "description": "A comprehensive web application for managing student records. It allows for creating, reading, updating, and deleting student information, as well as filtering, sorting, and viewing aggregated data visualizations.",
+  "requestFramePermissions": []
+}
